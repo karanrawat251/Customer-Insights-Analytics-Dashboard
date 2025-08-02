@@ -1,13 +1,17 @@
 # Customer-Insights-Analytics-Dashboard
 
 📌 Project Overview
+
 This Project delivers a complete end-to-end data analytics pipeline for a global retail dataset.
+
 It combines Python for data processing, SQL fro structured storage and Power BI for visualization, enabling deep insights into sales performance, customer behavior and profitability trends.
 
 
 🛠 Tools & Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning, transformation, and analysis
+
 SQl - Data storage and integration with Power BI
+
 Power BI - Interactive dashboards with DAX measures and drill-through filters
 
 
@@ -20,6 +24,8 @@ Power BI - Interactive dashboards with DAX measures and drill-through filters
 
 📊 Key Insights
 Sales trends by region, category, and time period
+
 Customer segmentation and high-value customer identification
+
 Profitability analysis across different market segments
 
